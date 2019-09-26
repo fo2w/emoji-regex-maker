@@ -1,7 +1,5 @@
 # emoji-regex-maker
 
-------
-
 ## 1. update time
 
 2019.09.26 uses the 12.0 version from:
