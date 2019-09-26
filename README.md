@@ -10,7 +10,7 @@
 
 ### 2.1 Generate sorted_emoji.txt (if needed)
 
-**Modify the `fetch_emoji_data.rb` file if there has a new version of `emoji-data.txt`**
+**Modify the `fetch_emoji_data.rb` file if there is a new version of `emoji-data.txt`**
 
 ```ruby
 ruby fetch_emoji_data.rb
